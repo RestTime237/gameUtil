@@ -1,0 +1,8 @@
+/* 전체 화면 기준 잡기 */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
